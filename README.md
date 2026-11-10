@@ -24,3 +24,5 @@ The project started with a structured dataset, followed by data preparation, ana
 | Dashboard-image.png | Preview of the final dashboard |
 | data.png | Preview of the source data |
 | README.md | Project documentation |
+
+[Download the Excel dataset](tableau_project_dataset.xlsx)
