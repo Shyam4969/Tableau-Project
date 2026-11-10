@@ -11,3 +11,9 @@ The project started with a structured dataset, followed by data preparation, ana
 ### Source Data
 
 ![Source Data](data.png)
+## Dashboard Features
+- Interactive Filters for Region, Category, and Date
+- Dynamic KPI Cards for Total Sales, Profit, and Quantity
+- Monthly Sales and Profit Trend Analysis
+- Product and Customer Performance Comparison
+- Regional Sales Analysis with Interactive Visualizations
