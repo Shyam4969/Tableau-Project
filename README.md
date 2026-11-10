@@ -17,3 +17,10 @@ The project started with a structured dataset, followed by data preparation, ana
 - Monthly Sales and Profit Trend Analysis
 - Product and Customer Performance Comparison
 - Regional Sales Analysis with Interactive Visualizations
+## Files Included
+
+| File | Description |
+|---|---|
+| Dashboard-image.png | Preview of the final dashboard |
+| data.png | Preview of the source data |
+| README.md | Project documentation |
